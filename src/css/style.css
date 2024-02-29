@@ -1,0 +1,23 @@
+#start-button{
+    background-color: white;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 54;
+    height: 14;
+    color: black;
+    font-size: 14px;
+    margin: 120px 130px;
+}
+#p1{
+    font-weight: 700;
+    font-size: 30px;
+    text-shadow: 5px 5px 4px rgba(0,0,0,0.25);
+    margin: 130px 130px;
+
+}
+#p2{
+    font-weight:400;
+    font-size: 20px;
+    margin: -100px 130px;
+}
